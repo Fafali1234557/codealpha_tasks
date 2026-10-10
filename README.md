@@ -12,9 +12,11 @@ A collection of mobile applications built with **Flutter** and **Dart** during m
 
 | Task | Project | Description | Status |
 | --- | --- | --- | --- |
-| 1 | [Flashcard Quiz App](task1_flashcardquizapp/) | Create, review, and manage question-and-answer flashcards. | ✅ Completed |
+| 1 | [Flashcard Quiz App](task1_flashcardquizapp/) | Create, review, and manage question-and-answer flashcards. | ✅ Built |
+| 2 | [Random Quote Generator](task2_random_quote_generator/) | Generate, copy, share, and favourite quotes, with categories and theme switching. | ✅ Source uploaded |
+| 3 | [Fitness Tracker](task3_fitness_tracker/) | Log activity, view daily and weekly progress, edit records, and save data locally. | ✅ Source uploaded |
 
-Additional internship tasks will be added to this repository as they are completed.
+**Note:** Task 2 and Task 3 contain the application source, dependencies and documentation. If a checkout lacks Flutter-generated platform scaffolding, open that task folder and run `flutter create .` once, then `flutter pub get` before launching it.
 
 ## 🧠 Task 1 — Flashcard Quiz App
 
@@ -84,6 +86,28 @@ Flashcards are held **in memory** in the current version. Cards added or edited 
 - Handling text input and validating form data
 - Working with dialogs, buttons, and navigation
 - Organizing and publishing a project with Git and GitHub
+
+---
+
+## 💜 Task 2 — Random Quote Generator
+
+A responsive Flutter app featuring random inspirational quotes, clipboard copying, sharing, category selection, favourites, and persistent theme preferences.
+
+- [Task 2 source and setup](task2_random_quote_generator/)
+- Runs on supported Flutter Android and web environments after dependencies and platform scaffolding are available
+- Favourites and theme preferences are stored locally
+
+---
+
+## 💚 Task 3 — Fitness Tracker
+
+A Flutter fitness dashboard built for manual workout logging and visual progress tracking.
+
+- [Task 3 source and setup](task3_fitness_tracker/)
+- Record steps, duration, estimated calories, activity type, and dates
+- View daily goal progress and seven-day trends; edit and delete saved entries
+- Activity data is kept locally with `shared_preferences`
+- This project does **not** automatically read the phone's motion sensors
 
 ---
 
