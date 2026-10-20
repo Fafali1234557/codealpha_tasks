@@ -1,0 +1,27 @@
+name: Flutter CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        project: [task1_flashcardquizapp, task2_random_quote_generator, task3_fitness_tracker]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - name: Install dependencies
+        working-directory: ${{ matrix.project }}
+        run: flutter pub get
+      - name: Analyze
+        working-directory: ${{ matrix.project }}
+        run: flutter analyze
+      - name: Test
+        working-directory: ${{ matrix.project }}
+        run: flutter test
