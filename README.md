@@ -16,7 +16,7 @@ A collection of mobile applications built with **Flutter** and **Dart** during m
 | 2 | [Random Quote Generator](task2_random_quote_generator/) | Generate, copy, share, and favourite quotes, with categories and theme switching. | ✅ Source uploaded |
 | 3 | [Fitness Tracker](task3_fitness_tracker/) | Log activity, view daily and weekly progress, edit records, and save data locally. | ✅ Source uploaded |
 
-**Note:** Task 2 and Task 3 contain the application source, dependencies and documentation. If a checkout lacks Flutter-generated platform scaffolding, open that task folder and run `flutter create .` once, then `flutter pub get` before launching it.
+**Status:** All three folders now include Flutter Android, iOS, web, Windows, macOS and Linux platform scaffolding, as well as their own widget tests. CodeAlpha internship reviewers can open each Flutter project independently. The `.github/workflows/flutter-tests.yml` workflow runs `flutter pub get`, `flutter analyze`, and `flutter test` for each project.
 
 ## 🧠 Task 1 — Flashcard Quiz App
 
@@ -94,7 +94,7 @@ Flashcards are held **in memory** in the current version. Cards added or edited 
 A responsive Flutter app featuring random inspirational quotes, clipboard copying, sharing, category selection, favourites, and persistent theme preferences.
 
 - [Task 2 source and setup](task2_random_quote_generator/)
-- Runs on supported Flutter Android and web environments after dependencies and platform scaffolding are available
+- Includes platform files for Android, iOS, web and desktop Flutter targets
 - Favourites and theme preferences are stored locally
 
 ---
@@ -116,3 +116,22 @@ A Flutter fitness dashboard built for manual workout logging and visual progress
 **GitHub:** [@Fafali1234557](https://github.com/Fafali1234557)
 
 Built as part of the **CodeAlpha App Development Internship**. Thanks to CodeAlpha for the opportunity to practice and grow through hands-on projects.
+
+---
+
+## ✅ Automated verification
+
+Every project contains `test/widget_test.dart`. From inside a task folder, run:
+
+```bash
+flutter pub get
+flutter analyze
+flutter test
+flutter run
+```
+
+The GitHub [Flutter CI workflow](.github/workflows/flutter-tests.yml) runs analysis and tests on every push to `main`. A successful CI run is separate from CodeAlpha's final submission and evaluation.
+
+## 📤 CodeAlpha submission
+
+The internship instructions request repository names in the `CodeAlpha_ProjectName` pattern. This repository currently uses the established name `codealpha_tasks`; follow the steps in [SUBMISSION.md](SUBMISSION.md) to rename it before final submission if your batch requires this naming. Post the required demonstration video and use your official WhatsApp-group submission form.

@@ -50,11 +50,13 @@ flutter pub get
 task2_random_quote_generator/
 ├── lib/
 │   └── main.dart
+├── android/, ios/, linux/, macos/, web/, windows/
+├── test/widget_test.dart
 ├── pubspec.yaml
 └── README.md
 ```
 
-A complete Flutter project also contains platform scaffolding (`android/`, `web/`, etc.) created by `flutter create`.
+This repository now includes Flutter platform scaffolding for Android, iOS, Linux, macOS, web and Windows plus `test/widget_test.dart`. No `flutter create .` workaround is required.
 
 ## 🌐 Publish to the web
 
@@ -68,3 +70,12 @@ Deploy the generated `build/web` directory to a static web host that supports Fl
 GitHub: [@Fafali1234557](https://github.com/Fafali1234557)  
 Internship: CodeAlpha — App Development  
 Project: Task 2 — Random Quote Generator
+## 🧪 Automated tests
+
+```bash
+flutter pub get
+flutter analyze
+flutter test
+```
+
+The widget tests cover quote rotation, favourite persistence and theme preferences. Also complete the manual UI checklist above on your actual device.
