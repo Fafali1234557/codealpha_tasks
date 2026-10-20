@@ -1,5 +1,6 @@
 # CodeAlpha App Development — Submission Checklist
 
+**Developer:** Saviour Fafali Ankugah · [LinkedIn](https://www.linkedin.com/in/saviour-ankugah-001b04361/) · [Portfolio](https://saviour-dev.netlify.app/)  
 **Internship domain:** App Development (Flutter / Dart)  
 **Chosen assignments:** Task 1, Task 2 and Task 3 (3 of 4)  
 **GitHub account:** [Fafali1234557](https://github.com/Fafali1234557)  

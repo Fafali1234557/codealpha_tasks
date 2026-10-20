@@ -6,7 +6,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projects-3-2ea44f)
 
-**Developer:** [@Fafali1234557](https://github.com/Fafali1234557) · **Internship track:** App Development · **Framework:** Flutter / Dart
+**Developer:** **Saviour Fafali Ankugah** · [LinkedIn](https://www.linkedin.com/in/saviour-ankugah-001b04361/) · [Portfolio](https://saviour-dev.netlify.app/) · [GitHub](https://github.com/Fafali1234557) · **Internship track:** App Development · **Framework:** Flutter / Dart
 
 ## Featured applications
 
@@ -17,6 +17,14 @@
 | [**Fitness Tracker**](CodeAlpha_FitnessTracker/) | Make daily workout records easier to review | Manual activity logging, editable history, daily goals, seven-day progress and local persistence |
 
 Each link opens a **recruiter-ready project README** with feature explanations, technical choices, quick-start steps, test instructions and current limitations.
+
+## Screenshots from the working applications
+
+These are screenshots from the actual Flutter applications running locally in Chrome (October 20, 2026), not generated mockups.
+
+| Flashcard Quiz | Random Quote Generator | Fitness Tracker |
+| :---: | :---: | :---: |
+| [<img src="CodeAlpha_FlashcardQuizApp/assets/flashcard-preview.jpg" alt="Flashcard Quiz app question screen" width="240">](CodeAlpha_FlashcardQuizApp/) | [<img src="CodeAlpha_RandomQuoteGenerator/assets/quote-preview.jpg" alt="Random Quote Generator showing a quote and author" width="240">](CodeAlpha_RandomQuoteGenerator/) | [<img src="CodeAlpha_FitnessTracker/assets/fitness-preview.jpg" alt="Fitness Tracker showing steps and workout time" width="240">](CodeAlpha_FitnessTracker/) |
 
 ## Engineering approach
 
@@ -86,6 +94,8 @@ These are project assets, not proof that CodeAlpha's external submission form ha
 
 ## About the developer
 
+**Saviour Fafali Ankugah** · [LinkedIn](https://www.linkedin.com/in/saviour-ankugah-001b04361/) · [Developer portfolio](https://saviour-dev.netlify.app/) · [GitHub](https://github.com/Fafali1234557)
+
 I am building practical Flutter applications while learning to design user-friendly experiences, validate input, manage local state and ship tested source code. More work: [GitHub profile](https://github.com/Fafali1234557).
 
-<!-- Optional recruiter links: public LinkedIn profile, project screenshots, demo videos, portfolio website and approved contact email can be added when provided. -->
+<!-- Optional future additions: a public professional contact email and uploaded demonstration videos, if provided. -->

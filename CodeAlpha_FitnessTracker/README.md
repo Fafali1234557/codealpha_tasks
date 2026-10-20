@@ -7,8 +7,14 @@
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-App%20Development-555555)
 
 > **Internship project:** CodeAlpha App Development · Fitness Tracker  
-> **Developer:** [@Fafali1234557](https://github.com/Fafali1234557)  
+> **Developer:** **Saviour Fafali Ankugah** · [LinkedIn](https://www.linkedin.com/in/saviour-ankugah-001b04361/) · [Portfolio](https://saviour-dev.netlify.app/) · [GitHub](https://github.com/Fafali1234557)  
 > [← Back to the project collection](../README.md)
+
+## App preview
+
+![Daily activity dashboard view](assets/fitness-preview.jpg)
+
+*Authentic screenshot from the Flutter application running locally in Chrome, October 20, 2026.*
 
 ## The problem
 
@@ -85,4 +91,8 @@ User-centered dashboard design, data validation, local data persistence, seriali
 ---
 
 Part of my [CodeAlpha App Development portfolio](https://github.com/Fafali1234557/codealpha_tasks).  
-<!-- Optional: insert approved demo-video and screenshot links after media is provided. -->
+### Developer
+
+**Saviour Fafali Ankugah** — [LinkedIn](https://www.linkedin.com/in/saviour-ankugah-001b04361/) · [Portfolio](https://saviour-dev.netlify.app/) · [GitHub](https://github.com/Fafali1234557)
+
+<!-- Demo-video link and professional contact email can be added when provided. -->

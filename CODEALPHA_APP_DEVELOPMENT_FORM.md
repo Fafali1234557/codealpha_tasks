@@ -6,7 +6,7 @@
 
 | Potential form question | Correct response |
 | --- | --- |
-| Full name | **[Enter the exact name on your internship offer letter]** |
+| Full name | **Saviour Fafali Ankugah** (confirm it matches your offer letter) |
 | Registered email | **[Enter the email you registered with CodeAlpha]** |
 | WhatsApp/mobile number | **[Enter your registered number with country code]** |
 | Internship / candidate ID | **[Enter the ID from your offer letter, if requested]** |
@@ -18,6 +18,8 @@
 | Task numbers | **Task 1, Task 2, Task 3** |
 | GitHub username | **Fafali1234557** |
 | GitHub profile | **https://github.com/Fafali1234557** |
+| LinkedIn profile | **https://www.linkedin.com/in/saviour-ankugah-001b04361/** |
+| Developer portfolio | **https://saviour-dev.netlify.app/** |
 
 ## Source code / project links
 
