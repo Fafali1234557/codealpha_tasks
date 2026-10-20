@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        project: [task1_flashcardquizapp, task2_random_quote_generator, task3_fitness_tracker]
+        project: [CodeAlpha_FlashcardQuizApp, CodeAlpha_RandomQuoteGenerator, CodeAlpha_FitnessTracker]
     steps:
       - uses: actions/checkout@v4
       - uses: subosito/flutter-action@v2

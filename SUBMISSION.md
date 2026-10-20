@@ -17,9 +17,9 @@ This file reflects the tutorial description and your App Development assignment 
 
 | Task | App | Direct GitHub project URL |
 | --- | --- | --- |
-| 1 | Flashcard Quiz App | https://github.com/Fafali1234557/codealpha_tasks/tree/main/task1_flashcardquizapp |
-| 2 | Random Quote Generator | https://github.com/Fafali1234557/codealpha_tasks/tree/main/task2_random_quote_generator |
-| 3 | Fitness Tracker | https://github.com/Fafali1234557/codealpha_tasks/tree/main/task3_fitness_tracker |
+| 1 | Flashcard Quiz App | https://github.com/Fafali1234557/codealpha_tasks/tree/main/CodeAlpha_FlashcardQuizApp |
+| 2 | Random Quote Generator | https://github.com/Fafali1234557/codealpha_tasks/tree/main/CodeAlpha_RandomQuoteGenerator |
+| 3 | Fitness Tracker | https://github.com/Fafali1234557/codealpha_tasks/tree/main/CodeAlpha_FitnessTracker |
 
 **One link for all three apps (if the form gives one GitHub link field):**  
 https://github.com/Fafali1234557/codealpha_tasks

@@ -25,13 +25,13 @@
 https://github.com/Fafali1234557/codealpha_tasks
 
 **Task 1: Flashcard Quiz App**  
-https://github.com/Fafali1234557/codealpha_tasks/tree/main/task1_flashcardquizapp
+https://github.com/Fafali1234557/codealpha_tasks/tree/main/CodeAlpha_FlashcardQuizApp
 
 **Task 2: Random Quote Generator**  
-https://github.com/Fafali1234557/codealpha_tasks/tree/main/task2_random_quote_generator
+https://github.com/Fafali1234557/codealpha_tasks/tree/main/CodeAlpha_RandomQuoteGenerator
 
 **Task 3: Fitness Tracker App**  
-https://github.com/Fafali1234557/codealpha_tasks/tree/main/task3_fitness_tracker
+https://github.com/Fafali1234557/codealpha_tasks/tree/main/CodeAlpha_FitnessTracker
 
 **Note:** The written assignment uses `CodeAlpha_ProjectName` for repo names. Rename the repo to `CodeAlpha_AppDevelopment` before submitting if required, and paste the **actual new GitHub URL**, not a guessed URL.
 
