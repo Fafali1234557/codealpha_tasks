@@ -136,7 +136,7 @@ The GitHub [Flutter CI workflow](.github/workflows/flutter-tests.yml) runs analy
 
 - [Submission instructions and final checks](SUBMISSION.md)
 - [App Development submission form answers (ready to copy)](CODEALPHA_APP_DEVELOPMENT_FORM.md)
-- [Automated test results](../../actions) — all three projects passed the GitHub Actions analysis and widget tests on October 20, 2026.
+- [Automated test results](https://github.com/Fafali1234557/codealpha_tasks/actions) — all three projects passed the GitHub Actions analysis and widget tests on October 20, 2026.
 
 **Submission note:** CodeAlpha's November 23, 2025 task-submission tutorial says each internship batch has its own submission-form link. Use only the link provided in your batch's WhatsApp group. The current repository is named `codealpha_tasks`, while your written assignment requests `CodeAlpha_ProjectName`. Rename through GitHub Settings if your batch requires that pattern; the connected tools cannot rename a repository. A GitHub push alone is not a completed submission.
 
